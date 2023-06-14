@@ -13,9 +13,10 @@ sudo make -B clean install
 
 ## Patches
 All patches were taken from [here](https://st.suckless.org/patches)
-| Patch Name    |
-| ------------- |
-| scrollback    |
-| ligatures     |
-| nord          |
-| anysize       |
+| Patch Name            |
+| --------------------- |
+| scrollback            |
+| ligatures             |
+| nord                  |
+| anysize               |
+| blinking cursor       |
